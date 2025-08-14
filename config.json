@@ -1,0 +1,39 @@
+{
+  "company": {
+    "name": "ShopExpress",
+    "telegram": "Freelanceprohub",
+    "phone": "055271",
+    "initialOrders": 127,
+    "initialSales": 745300
+  },
+  "products": {
+    "h96-max-h313": {
+      "title": "H96 Max H313",
+      "description": "Description du produit...",
+      "features": ["Feature 1", "Feature 2"],
+      "currentPrice": 5900,
+      "oldPrice": 8500,
+      "discount": "30%",
+      "images": ["image1.jpg", "image2.jpg"]
+    },
+    "x98-pro": {
+      "title": "X98 Pro",
+      "description": "Description...",
+      "features": ["Feature 1", "Feature 2"],
+      "currentPrice": 7500,
+      "oldPrice": 9900,
+      "discount": "25%",
+      "images": ["x98-pro.jpg"]
+    }
+  },
+  "wilayas": {
+    "الجزائر": ["الجزائر الوسطى", "باب الوادي"],
+    "وهران": ["وهران", "عين الترك"]
+  },
+  "delivery": {
+    "default": 700,
+    "الجزائر": 300,
+    "وهران": 500,
+    "قسنطينة": 500
+  }
+}
